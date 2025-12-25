@@ -3,7 +3,7 @@
 <div align="center">
   <br>
   <img src="https://img.shields.io/badge/STATUS-WAITING_FOR_REVIEW-yellow?style=for-the-badge&logo=apple" alt="Status">
-  <img src="https://img.shields.io/badge/PRICE-250_TRY-green?style=for-the-badge&logo=lemonsqueezy" alt="Price">
+  <img src="https://img.shields.io/badge/PRICE-5_$-green?style=for-the-badge&logo=lemonsqueezy" alt="Price">
   <br><br>
   <code>[██████████▒▒▒▒] Processing Store Approval...</code>
   <br>
