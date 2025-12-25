@@ -1,4 +1,4 @@
-# <img src="icon.png" width="45" align="top"> WinOSFlap: Professional Window Manager
+# <img src="logo.png" width="45" align="top"> WinOSFlap: Professional Window Manager
 
 <div align="center">
   <br>
@@ -11,7 +11,7 @@
   <br>
 </div>
 
-![WinOSFlap Banner](background.png)
+![WinOSFlap Banner](banner.png)
 
 **Master your workspace with the ultimate window tiling tool for macOS. Fast, intuitive, and powerful.**
 
