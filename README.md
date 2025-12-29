@@ -47,4 +47,4 @@ Found a bug or have a feature request? Help us make **WinOSFlap** the best it ca
 3.  Let us know what you think!
 
 ---
-*Developed with ❤️ by MaxApp (Xidea)*
+*Developed with ❤️ by MaxApp (Xideaa)*
