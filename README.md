@@ -4,6 +4,7 @@
   <br>
   <img src="https://img.shields.io/badge/STATUS-PUBLISHED-green?style=for-the-badge&logo=apple" alt="Status">
   <img src="https://img.shields.io/badge/PRICE-5_$-green?style=for-the-badge&logo=lemonsqueezy" alt="Price">
+  <img src="https://img.shields.io/badge/SECURITY-APPLE_NOTARIZED-blue?style=for-the-badge&logo=apple" alt="Security">
   <br><br>
   <p><b>✅ Store Approved! WinOSFlap is now officially available for download.</b></p>
   <br>
@@ -19,15 +20,16 @@ Tired of manually resizing windows? **WinOSFlap** brings professional-grade wind
 
 ## 🚀 Get WinOSFlap (Full Version)
 
-Purchase the full version to unlock all features and support the development of high-quality macOS utilities.
+Purchase the full version to unlock all features and support the development of high-quality macOS utilities. 
 
 ### 👉 [Buy WinOSFlap on Lemon Squeezy](https://maxapp.lemonsqueezy.com/checkout/buy/ad33a567-1d41-4048-a4fa-b31564f25492)
 
-*(Requires macOS 11.0 or later)*
+*🛡️ **Safe & Secure:** WinOSFlap is fully **Apple Notarized**. This means the app has been scanned and verified by Apple to be free of malicious software.*
 
 ---
 
 ## ✨ Key Features
+* **Apple Notarized:** Verified and signed by Apple for a secure and seamless installation on macOS.
 * **Smart Snap Zones:** Drag windows to screen edges for instant tiling and resizing.
 * **Custom Shortcuts:** Manage your entire workspace without ever leaving the keyboard.
 * **Lightweight Performance:** Optimized to run silently in the background with near-zero CPU usage.
