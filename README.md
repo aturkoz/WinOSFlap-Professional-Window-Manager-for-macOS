@@ -2,12 +2,10 @@
 
 <div align="center">
   <br>
-  <img src="https://img.shields.io/badge/STATUS-WAITING_FOR_REVIEW-yellow?style=for-the-badge&logo=apple" alt="Status">
+  <img src="https://img.shields.io/badge/STATUS-PUBLISHED-green?style=for-the-badge&logo=apple" alt="Status">
   <img src="https://img.shields.io/badge/PRICE-5_$-green?style=for-the-badge&logo=lemonsqueezy" alt="Price">
   <br><br>
-  <code>[██████████▒▒▒▒] Processing Store Approval...</code>
-  <br>
-  <p><b>⚠️ The purchase link below is currently LOCKED. It will activate automatically after review.</b></p>
+  <p><b>✅ Store Approved! WinOSFlap is now officially available for download.</b></p>
   <br>
 </div>
 
@@ -23,7 +21,7 @@ Tired of manually resizing windows? **WinOSFlap** brings professional-grade wind
 
 Purchase the full version to unlock all features and support the development of high-quality macOS utilities.
 
-### 👉 [Buy WinOSFlap on Lemon Squeezy](https://xidea.lemonsqueezy.com/checkout/buy/...)
+### 👉 [Buy WinOSFlap on Lemon Squeezy](https://maxapp.lemonsqueezy.com/checkout/buy/ad33a567-1d41-4048-a4fa-b31564f25492)
 
 *(Requires macOS 11.0 or later)*
 
