@@ -33,6 +33,8 @@ Purchase the full version to unlock all features and support the development of 
 * **Lightweight Performance:** Optimized to run silently in the background with near-zero CPU usage.
 * **Privacy Focused:** Runs locally on your machine. No data collection, no internet required.
 
+![WinOSFlap Features](banner2.png)
+
 ---
 
 ## 🐛 Feedback & Bug Reports
